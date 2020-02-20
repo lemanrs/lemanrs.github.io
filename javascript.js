@@ -80,31 +80,31 @@ const name = data ['name'];
 
 
     case 'Thunderstorm' : 
-    document.body.style.backgroundImage = 'url("img/thunderstorm.jpg")';
+    document.body.style.backgroundImage = 'url("thunderstorm.jpg")';
     break;
 
     case 'Drizzle' : 
-    document.body.style.backgroundImage = 'url("img/img/drizzle.jpg")';
+    document.body.style.backgroundImage = 'url("drizzle.jpg")';
     break;
 
     case 'Rain' : 
-    document.body.style.backgroundImage = 'url("img/rain.jpg")';
+    document.body.style.backgroundImage = 'url("rain.jpg")';
     break;
 
     case 'Snow' : 
-    document.body.style.backgroundImage = 'url("img/snow.jpg")';
+    document.body.style.backgroundImage = 'url("snow.jpg")';
     break;
 
     case 'Mist' : 
-    document.body.style.backgroundImage = 'url("img/mist.jpg")';
+    document.body.style.backgroundImage = 'url("mist.jpg")';
     break;
 
     case 'Clear' : 
-    document.body.style.backgroundImage = 'url("img/clear.jpg")';
+    document.body.style.backgroundImage = 'url("clear.jpg")';
     break;
 
     case 'Clouds' : 
-    document.body.style.backgroundImage = 'url("img/clouds.jpg")';
+    document.body.style.backgroundImage = 'url("clouds.jpg")';
     break;
 
    }
