@@ -1,0 +1,119 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight:bold;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+
+
+
+.location-search {
+
+    margin-top: 2rem;
+    font-size: larger;
+    padding: 2rem;
+    margin: 1rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#button {
+
+margin-top: 1.5rem;
+height: 2rem;
+padding: 0.5rem;
+
+}
+
+.input-value {
+
+    height: 2rem;
+    width: 10rem;
+    border: 2px solid transparent;
+    margin-top:1.5rem;
+   
+}
+
+.temp {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-evenly;
+
+}
+
+.temperature {
+
+    font-size: 2rem;
+    font-weight: bolder;
+    
+}
+
+
+
+a {
+    text-decoration: none;
+    color: white;
+    text-align: right;
+}
+
+.country {
+
+    margin-top: 2rem;
+}
+
+#iconImg {
+
+    height: 4rem;
+    width: 4rem;
+    
+}
+
+.temperature-description {
+
+    text-transform: capitalize;
+    margin-top: 2rem;
+   
+}
+
+.w-container {
+
+    background-color: rgba(84, 96, 112, 0.55);
+    border-radius: 3rem;
+    box-shadow: 2rem;
+    display: flex;
+    flex-direction: column;
+    height: 30rem;
+    width: 25rem;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.location
+
+{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
